@@ -5,7 +5,7 @@
 ### 🦍 About me
 
 <!-- [![Github Stars](https://img.shields.io/github/stars/joyboy18900?style=for-the-badge&color=2da44e&label=Github%20Star&logo=github)](https://github.com/joyboy18900) -->
-[![Blog](https://img.shields.io/badge/-joyboy18900-0ea5e9?style=for-the-badge&logoColor=white&label=MyBlog)](http://cv.surakiat.com/)
+[![Blog](https://img.shields.io/badge/-joyboy18900-0ea5e9?style=for-the-badge&logoColor=white&label=MyBlog)](http://surakiat.com/)
 
 ### 💻 **Development environment：**
 
